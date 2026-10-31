@@ -12,7 +12,7 @@ Agent IA de génération de cas de tests QA à partir d'une spécification fonct
 
 | Dashboard Angular | Architecture multi-agents | Chatbot QA rag |
 |-------------------|---------------------------|----------------------|
-| ![Dashboard](./screens/dashboard.png) | ![Agents](./screens/image.png) | ![Chatbot](./screens/Chatbot-qa.png) |
+| ![Dashboard](./screens/Dashboard.png) | ![Agents](./screens/image.png) | ![Chatbot](./screens/Chatbot-qa.png) |
 
 ---
 
