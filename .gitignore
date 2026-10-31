@@ -1,0 +1,40 @@
+# Environnement
+.env
+.venv/
+venv/
+.envrc
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+build/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Données / binaires lourds
+*.db
+*.db-journal
+*.sqlite3
+*.pdf
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+
+# Logs / runtime / debug
+*.log
+api_runs/
+tmp_uploads/
+debug/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
