@@ -10,9 +10,9 @@ Agent IA de génération de cas de tests QA à partir d'une spécification fonct
 
 ## 📸 Aperçu
 
-| Dashboard Angular | Architecture multi-agents | Rapport de validation |
+| Dashboard Angular | Architecture multi-agents | Chatbot QA rag |
 |-------------------|---------------------------|----------------------|
-| ![Dashboard](./screens/dashboard-home.png) | ![Agents](./screens/agents-page.png) | ![Rapport](./screens/rapport-validation.png) |
+| ![Dashboard](./screens/dashboard.png) | ![Agents](./screens/image.png) | ![Rapport](./screens/Chatbot-qa.png) |
 
 > 👉 Ajoute tes captures d'écran dans le dossier `screens/` pour illustrer la vitrine.
 
@@ -145,4 +145,4 @@ Ce projet est sous licence [MIT](LICENSE).
 
 ---
 
-Construit avec ❤️ par **Aymen Ichqarrane** — [Value IT](https://www.valueit.ma)
+Construit par **Aymen Ichqarrane** — [Value IT](https://www.valueit.ma)
